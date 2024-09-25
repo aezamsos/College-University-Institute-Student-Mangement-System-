@@ -47,13 +47,25 @@ Run the Application:
 - Use DBConnect to manage the database connection.
 - Click Reset to clear input fields.
 
+
+## Acknowledgments
+- Thanks to the open-source community for their valuable resources and libraries.
+- Special thanks to educational institutions for providing the requirements and feedback for this project.
+
+## Screenshots
+
+![Student Management System Screenshot](Screenshots/1.jpg)
+![Student Management System Screenshot](Screenshots/2.jpg)
+![Student Management System Screenshot](Screenshots/3.jpg)
+![Student Management System Screenshot](Screenshots/4.jpg)
+
+
 ## Contributing
 - Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 ##  License
 - This project is licensed under the MIT License for details.
 
-## Acknowledgments
-- Thanks to the open-source community for their valuable resources and libraries.
-- Special thanks to educational institutions for providing the requirements and feedback for this project.
+## Connect with Me
 
+- [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
