@@ -25,33 +25,35 @@ The College/University/Institute Student Management System is a Java Swing-based
  
 ## Open the Project:
 
-Open NetBeans IDE and select "Open Project."
+- Open NetBeans IDE and select "Open Project."
 Navigate to the cloned repository and open the project.
 
 ## Set Up Database:
 
-Ensure you have MS Access installed.
-Configure the database connection in the application settings to point to your MS Access database file.
+- Ensure you have MS Access installed.
+- Configure the database connection in the application settings to point to your MS Access database file.
+
 Run the Application:
 
-In NetBeans, right-click the project and select "Run" to start the application.
+- In NetBeans, right-click the project and select "Run" to start the application.
 
 ## Usage
 
-Launch the application.
-Enter your credentials on the login screen.
-Access the main functionalities:
-Use the Insert feature to add student records.
-Utilize the Print feature to generate reports.
-Use DBConnect to manage the database connection.
-Click Reset to clear input fields.
-Contributing
-Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
+- Launch the application.
+- Enter your credentials on the login screen.
+- Access the main functionalities:
+- Use the Insert feature to add student records.
+- Utilize the Print feature to generate reports.
+- Use DBConnect to manage the database connection.
+- Click Reset to clear input fields.
+
+## Contributing
+- Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
 ##  License
-This project is licensed under the MIT License for details.
+- This project is licensed under the MIT License for details.
 
 ## Acknowledgments
-Thanks to the open-source community for their valuable resources and libraries.
-Special thanks to educational institutions for providing the requirements and feedback for this project.
+- Thanks to the open-source community for their valuable resources and libraries.
+- Special thanks to educational institutions for providing the requirements and feedback for this project.
 
