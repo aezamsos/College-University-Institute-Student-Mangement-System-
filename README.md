@@ -74,3 +74,5 @@ Run the Application:
 ## Connect with Me
 
 - [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- Email: aezamsos@gmail.com
+- WhatsApp: +918328476955
