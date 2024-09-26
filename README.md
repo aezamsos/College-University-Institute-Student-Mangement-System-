@@ -1,4 +1,4 @@
-# College/University/Institute Student Management System
+# College/University/Institute Student Management System ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## Overview
 
